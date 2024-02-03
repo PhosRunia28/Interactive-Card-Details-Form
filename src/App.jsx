@@ -8,7 +8,7 @@ function App() {
   const [inputForm, setInpurForm] = useState({
     cardName: "Jane Appleseed",
     cardNumber: "0000 0000 0000 0000",
-    month: 0,a
+    month: 0,
     year: 0,
     cvc: 0,
   });
